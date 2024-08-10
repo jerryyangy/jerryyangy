@@ -2,8 +2,8 @@
 
 
 
-
+- 🌱 Industrial business digitalization, AI transformation, data insights & visualization
 - 🔭 I’m currently in Hong Kong
-- 🌱 I’m currently learning Algo
+  
 
 
